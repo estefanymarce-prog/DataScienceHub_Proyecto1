@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dbeafe"/><stop offset="1" stop-color="#e0e7ff"/></linearGradient></defs>
+  <rect width="400" height="400" rx="48" fill="url(#g)"/>
+  <circle cx="200" cy="148" r="70" fill="#94a3b8"/>
+  <path d="M82 350c10-88 54-134 118-134s108 46 118 134" fill="#94a3b8"/>
+  <text x="200" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#475569">Foto pendiente</text>
+</svg>
