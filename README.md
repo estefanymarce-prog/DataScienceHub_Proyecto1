@@ -18,7 +18,7 @@ Si agregas nuevas fotografías, guárdalas dentro de `assets/` y cambia el valor
 1. Crea o abre el repositorio del proyecto.
 2. Sube `index.html` y la carpeta `assets` respetando la estructura.
 3. En GitHub: **Settings → Pages**.
-4. En **Build and deployment**, selecciona **Deploy from a branch**.
+4. En **Build and deployment**, selecciona **Deploy from a branch**. 
 5. Selecciona la rama `main` y la carpeta `/ (root)`.
 6. Guarda. GitHub mostrará la URL pública cuando el despliegue esté disponible.
 
